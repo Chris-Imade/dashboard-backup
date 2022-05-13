@@ -1,0 +1,16 @@
+.home {
+    border-radius: 1rem;
+    display: flex;
+}
+.header {
+    border-radius: 1rem 1rem 0 0;
+}
+.left {
+    flex: 0.7;
+}
+.right {
+    flex: 0.3;
+}
+.dropDownBorder {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
